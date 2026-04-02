@@ -24,10 +24,3 @@ Dashboard Features:
 
 - Power BI Desktop
 - Microsoft Excel
-
-Demonstrated:
-- Budget vs Actual variance analysis
-- DAX measure writing
-- Financial storytelling through data visualization
-- Cash flow and liquidity analysis
-- EBITDA margin analysis
