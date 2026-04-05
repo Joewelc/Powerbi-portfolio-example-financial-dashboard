@@ -25,6 +25,8 @@ Dashboard Features:
 - Power BI Desktop
 - Microsoft Excel
 
+
+
 An example 3 statement model analysis example
 
 ![Assumptions](1.jpg)
