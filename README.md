@@ -51,7 +51,3 @@ Model Features:
 
 -SaaS KPI summary: MRR, ARR growth, churn, LTV:CAC, Rule of 40, and runway
 
-Tools Used:
-
-Microsoft Excel
-Financial modeling best practices: blue/black/green color coding, assumption-driven forecasts, formula documentation
