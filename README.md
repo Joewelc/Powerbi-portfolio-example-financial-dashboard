@@ -1,4 +1,4 @@
-An example financial dashboard made in power BI for my finance portfolio 
+An example financial dashboard made in power BI for my finance portfolio:
 
 Dashboard Preview:
 ![Dashboard](bi_image.jpg)
@@ -27,7 +27,7 @@ Dashboard Features:
 
 
 
-An example 3 statement model analysis example
+An example 3 statement model analysis example:
 
 ![Assumptions](1.jpg)
 
@@ -40,11 +40,11 @@ Context:
 Vaultline Security experienced customer churn and rising costs through FY2022–FY2024 while investing heavily in product and sales. The forecast models an efficiency recovery driven by a $3.5M seed raise, with net losses narrowing from ($926K) in FY2024 to ($386K) by FY2026 as gross margins expand and operating leverage improves.
 Model Features:
 
-Assumptions tab: ARR waterfall, headcount planning, unit economics, and margin drivers
-Full income statement: revenue build through net income across 5 years
-Balance sheet: assets, liabilities, and equity with forecast period
-Cash flow statement: indirect method across operating, investing, and financing activities
-SaaS KPI summary: MRR, ARR growth, churn, LTV:CAC, Rule of 40, and runway
+-Assumptions tab: ARR waterfall, headcount planning, unit economics, and margin drivers
+-Full income statement: revenue build through net income across 5 years
+-Balance sheet: assets, liabilities, and equity with forecast period
+-Cash flow statement: indirect method across operating, investing, and financing activities
+-SaaS KPI summary: MRR, ARR growth, churn, LTV:CAC, Rule of 40, and runway
 
 Tools Used:
 
